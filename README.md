@@ -1,5 +1,5 @@
 # Ejercicio #2
-Trabajo #2 del curso Programación 1
+Trabajo #2 del curso Programación 1 para un programa de un sistema gestión de inventarios
 
 ## Empezando
 
