@@ -16,7 +16,7 @@ python main.py
 
 ## Diagrama de clase
 
-![CLass diagram](./diagrama_ejercicio_2.svg)
+![CLass diagram](./docs/diagrama_ejercicio_2.svg)
 
 ## Autor
 - [@siCasta](https://github.com/siCasta)
