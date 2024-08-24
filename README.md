@@ -1,7 +1,7 @@
 # Ejercicio #2
 Trabajo #2 del curso Programación 1 para un programa de un sistema gestión de inventarios
 
-## Empezando
+## Instalación
 
 ```bash
 python -m venv .venv
