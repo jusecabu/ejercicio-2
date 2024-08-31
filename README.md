@@ -5,7 +5,8 @@ Trabajo #2 del curso Programación 1 para un programa de un sistema gestión de 
 
 ```bash
 python -m venv .venv
-source .venv/Scripts/activate
+source .venv/bin/activate
+# With Powershell .\.venv\Scripts\activate
 pip install -r requirements.txt
 python main.py
 ```
