@@ -23,7 +23,7 @@ source .venv/bin/activate
 Instalar e iniciar
 ```bash
 pip install -r requirements.txt
-python main.py
+python app/main.py
 ```
 
 ### Prerequisites
