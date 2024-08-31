@@ -6,4 +6,9 @@ class Supplier:
         self.direction = direction
         self.phone = phone
         self.supplied_products = supplied_products
+        
+    def add_product(self, product: Product):
+        pass
+
+    def remove_product(self, product: Product):
         pass

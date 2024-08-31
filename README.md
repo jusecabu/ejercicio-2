@@ -3,10 +3,25 @@ Trabajo #2 del curso Programación 1 para un programa de un sistema gestión de 
 
 ## Instalación
 
+Crear el entorno virtual
 ```bash
 python -m venv .venv
+```
+
+Iniciar el entorno
+
+Windows
+```bash
+.\.venv\Scripts\activate
+```
+
+Mac / Linux
+```bash
 source .venv/bin/activate
-# With Powershell .\.venv\Scripts\activate
+```
+
+Instalar e iniciar
+```bash
 pip install -r requirements.txt
 python main.py
 ```
